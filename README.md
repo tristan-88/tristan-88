@@ -43,6 +43,8 @@
 **Contact**
 > You can connect with me below 👇👇👇
 
+>Email: tristansj88@gmail.com
+
 
 > [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black">](https://github.com/tristan-88)
 > [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=lightblue">](youlinkinlinkhere)
