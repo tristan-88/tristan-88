@@ -47,7 +47,7 @@
 
 > [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black">](https://github.com/tristan-88)
 > [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=lightblue">](https://www.linkedin.com/in/tristan-san-juan-75337920b/)
-> [<img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=darkgray">](yourangelistlinkhere)
+> [<img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=darkgray">](https://angel.co/u/tristan-san-juan)
 > 
 > 
 > <!--
