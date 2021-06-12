@@ -43,7 +43,7 @@
 > You can connect with me below 👇👇👇
 
 >Email: tristansj88@gmail.com
-
+[Personal Portfolio](https://tristan-88.github.io/)
 
 > [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black">](https://github.com/tristan-88)
 > [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=lightblue">](https://www.linkedin.com/in/tristan-san-juan-75337920b/)
