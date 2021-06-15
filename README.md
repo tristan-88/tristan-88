@@ -16,13 +16,13 @@
 ### ABOUT ME:
 
 > - My name is Tristan San Juan. 🏳️‍🌈
-> - I am currently in week 23 of App Academy's Full Stack Program. 👨🏻‍💻
+> - I am graduate App Academy's Full Stack Program. 👨🏻‍💻
 > - Currently Based in Surprise, Arizona.
 > - From Manilla, Philippines. 🇵🇭
 
 > **Bilingual**
 > - Tagalog
-> - Enligsh
+> - English
 > - very little Mandarin
 
 
