@@ -16,7 +16,7 @@
 ### ABOUT ME:
 
 > - My name is Tristan San Juan. 🏳️‍🌈
-> - I am graduate App Academy's Full Stack Program. 👨🏻‍💻
+> - I am graduate from App Academy's Full Stack Program. 👨🏻‍💻
 > - Currently Based in Surprise, Arizona.
 > - From Manilla, Philippines. 🇵🇭
 
