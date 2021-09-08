@@ -4,8 +4,7 @@
 
 -----
 <a href="https://github.com/tristan-88/github-readme-stats">
- 
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tristan-88&show_icons=true&theme=react" /></a>
 
 <a href="https://github.com/tristan-88/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tristan-88&layout=compact&theme=react" />
