@@ -3,7 +3,7 @@
 ### [💼  Personal Portfolio](https://tristan-88.github.io/)
 
 -----
-![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristan-88&theme=tokyonight&show_icons=true)
+<!-- ![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristan-88&theme=tokyonight&show_icons=true) -->
 
 
 ![Tristan;s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tristan-88&layout=compact&theme=react)
