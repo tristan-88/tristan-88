@@ -49,22 +49,19 @@
 
  <div align="center" justify-content="space-between">
 
-### ABOUT ME:
+
+
+**ABOUT ME**
 
 My name is Tristan San Juan. 🏳️‍🌈\
 I am graduate from App Academy's Full Stack Program. 👨🏻‍💻\
 Currently Based in Surprise, Arizona.\
 From Manilla, Philippines. 🇵🇭
 
-### Bilingual:
-Tagalog\
-English\
-Very little Mandarin
+-------
 
+**CONTACT**
 
-
-
-### Contact:
 You can connect with me below 👇👇👇
 
 Email: tristansj88@gmail.com
