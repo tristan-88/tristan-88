@@ -54,8 +54,9 @@
 **ABOUT ME**
 
 My name is Tristan San Juan. 🏳️‍🌈\
-I am graduate from App Academy's Full Stack Program. 👨🏻‍💻\
-Currently Based in Surprise, Arizona.\
+I graduated from App Academy's Full Stack Development/Software Engineering Program @2021. 👨🏻‍💻\
+I got my Bachelor's of Science in Information Technology concentration in Software Engineering @2016 from University of Phoenix.\
+Currently based in Arizona.\
 From Manilla, Philippines. 🇵🇭
 
 -------
